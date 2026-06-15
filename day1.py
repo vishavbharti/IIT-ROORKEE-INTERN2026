@@ -1,6 +1,6 @@
 #pragram that takes name,age as input and prints a greeting
-name="udita"
-age=22
+name="vishav bharti"
+age=23
 greetings="hello"
 print(greetings)
 print("my name is:",name)
